@@ -60,9 +60,8 @@ if result:
 st.divider()
 st.subheader("Recent simulated tickets")
 tickets = list_tickets()
-if tickets:
-    st.dataframe(tickets, use_container_width=True, hide_index=True)
+if not tickets.empty:
+    st.dataframe(tickets, use_container_width=True)
 else:
-    st.write("No tickets created yet. Submit an issue above to create the first ticket.")
-
+    st.info("No tickets yet.")
 st.caption("Case study inspiration: LLexus, *An AI Agent System for Incident Management* (Microsoft Research, 2024). This student prototype is not the LLexus implementation.")
