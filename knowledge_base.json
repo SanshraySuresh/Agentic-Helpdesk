@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Network",
+    "title": "Network connectivity troubleshooting",
+    "steps": "1. Confirm Wi-Fi is enabled. 2. Disconnect and reconnect to the network. 3. Restart the router only if authorized. 4. Check gateway/DNS status or contact IT."
+  },
+  {
+    "category": "Account Access",
+    "title": "Password and account access",
+    "steps": "1. Confirm the correct username and sign-in page. 2. Use the organization's approved password-reset portal. 3. Never share passwords or verification codes. 4. Contact IT if the account remains locked."
+  },
+  {
+    "category": "Printer",
+    "title": "Printer troubleshooting",
+    "steps": "1. Check power and paper. 2. Confirm the selected printer. 3. Clear stuck jobs if permitted. 4. Check network connection and contact IT if the printer remains unavailable."
+  },
+  {
+    "category": "Software",
+    "title": "Software installation troubleshooting",
+    "steps": "1. Confirm the software is approved. 2. Check available storage and the installer error. 3. Verify permissions with IT. 4. Do not bypass organization security controls."
+  },
+  {
+    "category": "Performance",
+    "title": "Slow or freezing computer",
+    "steps": "1. Save work. 2. Close unnecessary applications. 3. Record any error message. 4. Ask IT to review resource usage and system logs."
+  },
+  {
+    "category": "General IT",
+    "title": "General IT triage",
+    "steps": "1. Record the exact symptoms and any error message. 2. Note when the problem started. 3. Identify whether others are affected. 4. Contact IT support with these details."
+  }
+]
