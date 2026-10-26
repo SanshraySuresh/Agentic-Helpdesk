@@ -1,6 +1,6 @@
 # Agentic AI IT Helpdesk Assistant
 
-A small, research-inspired student prototype for an 8-mark Agentic AI case study.
+A small, research-inspired student prototype for an Agentic AI case study.
 
 ## Research inspiration
 LLexus: An AI Agent System for Incident Management (Microsoft Research, 2024):
